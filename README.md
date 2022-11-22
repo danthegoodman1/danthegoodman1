@@ -11,6 +11,7 @@ Co-Founder & CEO @ [🍊 Tangia (YC S22)](www.tangia.co)
 - Datastores & Databases
 - Distributed Systems
 - Big Data Projects
+- DreamBooth (my profile picture is not real)
 
 #### 🕵️ Data Analysis Projects
 
