@@ -8,7 +8,7 @@
 - Distributed Systems
 - Big Data Projects
 
-#### Data Analysis Projects
+#### 🕵️ Data Analysis Projects
 
 - [🏦 SEC Private Equity](https://blog.danthegoodman.com/following-the-money)
 - [🏛 Senate Financial Disclosure](https://senate.danthegoodman.com)
@@ -16,4 +16,4 @@
 
 _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 
-#### Favorite Open Source Projects:
+#### 🧑‍💻 Favorite Open Source Projects:
