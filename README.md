@@ -1,6 +1,6 @@
 ### Me as fast as possible
 
-Co-Founder & CEO @ [🍊 Tangia](www.tangia.co)
+Co-Founder & CEO @ [🍊 Tangia (YC S22)](www.tangia.co)
 
 📝 Blog: [blog.danthegoodman.com](blog.danthegoodman.com)
 
