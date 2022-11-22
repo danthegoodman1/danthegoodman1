@@ -1,16 +1,19 @@
-### Hi there 👋
+### Me as fast as possible
 
-<!--
-**danthegoodman1/danthegoodman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 Blog: [blog.danthegoodman.com](blog.danthegoodman.com)
 
-Here are some ideas to get you started:
+#### 🤓 Big Nerd For
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Datastores & Databases
+- Distributed Systems
+- Big Data Projects
+
+#### Data Analysis Projects
+
+- [🏦 SEC Private Equity](https://blog.danthegoodman.com/following-the-money)
+- [🏛 Senate Financial Disclosure](https://senate.danthegoodman.com)
+- [📈 Insider Trading Analysis](https://blog.danthegoodman.com/insider-trading)
+
+_Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
+
+#### Favorite Open Source Projects:
