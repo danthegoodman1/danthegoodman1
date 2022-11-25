@@ -21,4 +21,10 @@ Co-Founder & CEO @ [🍊 Tangia (YC S22)](www.tangia.co)
 
 _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 
-#### 🧑‍💻 Favorite Open Source Projects:
+#### Some projects I've contributed to:
+
+- [Kubernetes Autoscaler](https://github.com/kubernetes/autoscaler)
+- [BashBunny Payloads (Hak5)](https://github.com/hak5/bashbunny-payloads)
+- [lego](https://github.com/go-acme/lego)
+
+#### 🧑‍💻 Favorite Projects:
