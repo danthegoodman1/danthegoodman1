@@ -29,3 +29,6 @@ _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 - [byob](https://github.com/malwaredllc/byob)
 
 #### 🧑‍💻 Favorite Projects:
+
+- [Segment Proxy](https://github.com/danthegoodman1/SegmentProxy)
+- [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
