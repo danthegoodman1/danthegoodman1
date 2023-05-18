@@ -27,6 +27,7 @@ _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 - [BashBunny Payloads (Hak5)](https://github.com/hak5/bashbunny-payloads)
 - [lego](https://github.com/go-acme/lego)
 - [byob](https://github.com/malwaredllc/byob)
+- [mrsk](https://github.com/mrsked/mrsk) (readme fix)
 
 #### 🧑‍💻 Favorite Projects:
 
