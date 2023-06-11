@@ -33,4 +33,5 @@ _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 
 - [Segment Proxy](https://github.com/danthegoodman1/SegmentProxy)
 - [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
+- [GoSearch](https://github.com/GoSearchTeam/goSearch)
 - My pins:
