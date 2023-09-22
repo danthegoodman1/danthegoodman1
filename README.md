@@ -35,4 +35,5 @@ _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 - [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
 - [GoSearch](https://github.com/GoSearchTeam/goSearch)
 - [UltraQueue (like segment's Centrifuge but pull)](https://github.com/danthegoodman1/UltraQueue)
+- [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
 - My pins:
