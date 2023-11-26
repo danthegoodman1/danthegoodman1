@@ -36,4 +36,5 @@ _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 - [GoSearch](https://github.com/GoSearchTeam/goSearch)
 - [UltraQueue (like segment's Centrifuge but pull)](https://github.com/danthegoodman1/UltraQueue)
 - [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
+- [RustyGraphDB (Rust Graph DB exploration)](https://github.com/danthegoodman1/RustyGraphDB)
 - My pins:
