@@ -37,4 +37,5 @@ _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 - [UltraQueue (like segment's Centrifuge but pull)](https://github.com/danthegoodman1/UltraQueue)
 - [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
 - [RustyGraphDB (Rust Graph DB exploration)](https://github.com/danthegoodman1/RustyGraphDB)
+- [AWS SigV4/IAM Proxy](https://github.com/danthegoodman1/IAMProxy) - Verifies the signature of incoming requests so you can easily make AWS-compatible APIs in any language
 - My pins:
