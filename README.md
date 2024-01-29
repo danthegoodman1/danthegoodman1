@@ -1,4 +1,4 @@
-### Me as fast as possible
+### Chronic coder trying to make cool stuff
 
 Co-Founder & CEO @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
