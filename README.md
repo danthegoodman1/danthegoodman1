@@ -1,6 +1,6 @@
 ### Chronic coder trying to make cool stuff
 
-Co-Founder & CEO @ [🍊 Tangia (YC S22)](https://www.tangia.co)
+Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
 📝 Blog: [blog.danthegoodman.com](https://blog.danthegoodman.com)
 
