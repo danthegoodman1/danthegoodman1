@@ -24,6 +24,7 @@ _Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
 
 - [Kubernetes Autoscaler](https://github.com/kubernetes/autoscaler)
 - [FoundationDB](https://github.com/apple/foundationdb)
+- [Benthos](https://github.com/benthosdev/benthos/commit/ab0a2bc34486e97b5c913774f02d897c4a4cc60e)
 - [BashBunny Payloads (Hak5)](https://github.com/hak5/bashbunny-payloads)
 - [lego](https://github.com/go-acme/lego)
 - [byob](https://github.com/malwaredllc/byob)
