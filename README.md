@@ -18,7 +18,7 @@ Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 - [🏛 Senate Financial Disclosure](https://senate.danthegoodman.com)
 - [📈 Insider Trading Analysis](https://blog.danthegoodman.com/insider-trading)
 
-_Find more at [blog.danthegoodman.com](blog.danthegoodman.com)_
+_Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 
 #### Some projects I've contributed to:
 
