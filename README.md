@@ -32,6 +32,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 
 #### 🧑‍💻 Favorite Projects:
 
+- [Gildra](https://github.com/danthegoodman1/Gildra)
 - [Segment Proxy](https://github.com/danthegoodman1/SegmentProxy)
 - [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
 - [GoSearch](https://github.com/GoSearchTeam/goSearch)
