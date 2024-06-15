@@ -6,11 +6,7 @@ Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
 🐦 Twitter: [@Dan_The_Goodman](https://twitter.com/Dan_The_Goodman)
 
-#### 🤓 Big Nerd For
-
-- Datastores & Databases
-- Distributed Systems
-- Data Analysis
+#### 🤓 Big Nerd For datastores, databases, distributed systems, and data analysis
 
 #### 🕵️ Data Analysis Projects
 
