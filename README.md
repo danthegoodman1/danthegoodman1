@@ -10,7 +10,7 @@ Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 - Datastores and databases
 - Distributed systems
 - Data analysis
-- Secure container image execution (Firecracker, gVisor, v8, isolated SQLite)
+- Secure code execution (Firecracker, gVisor, v8, isolated SQLite)
 
 #### 🕵️ Data Analysis Projects
 
