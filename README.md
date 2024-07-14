@@ -6,7 +6,7 @@ Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
 🐦 Twitter: [@Dan_The_Goodman](https://twitter.com/Dan_The_Goodman)
 
-#### 🤓 Big Nerd Fo:
+#### 🤓 Big Nerd For:
 - Datastores and databases
 - Distributed systems
 - Data analysis
@@ -33,6 +33,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 #### 🧑‍💻 Favorite Projects:
 
 - [Gildra](https://github.com/danthegoodman1/Gildra)
+- [StableInterfaces](https://github.com/danthegoodman1/StableInterfaces)
 - [Segment Proxy](https://github.com/danthegoodman1/SegmentProxy)
 - [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
 - [GoSearch](https://github.com/GoSearchTeam/goSearch)
