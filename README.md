@@ -41,4 +41,5 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
 - [RustyGraphDB (Rust Graph DB exploration)](https://github.com/danthegoodman1/RustyGraphDB)
 - [AWS SigV4/IAM Proxy](https://github.com/danthegoodman1/IAMProxy) - Verifies the signature of incoming requests so you can easily make AWS-compatible APIs in any language
+- [EpicEnv](https://github.com/danthegoodman1/EpicEnv)
 - My pins:
