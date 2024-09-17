@@ -1,4 +1,4 @@
-### Chronic coder trying to make cool stuff
+### Just trying to make something people want
 
 Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
