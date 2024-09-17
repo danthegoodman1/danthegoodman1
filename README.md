@@ -42,4 +42,5 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [RustyGraphDB (Rust Graph DB exploration)](https://github.com/danthegoodman1/RustyGraphDB)
 - [AWS SigV4/IAM Proxy](https://github.com/danthegoodman1/IAMProxy) - Verifies the signature of incoming requests so you can easily make AWS-compatible APIs in any language
 - [durabletasks](https://github.com/danthegoodman1/durabletasks)
+- [ObjectKV](https://github.com/danthegoodman1/ObjectKV)
 - My pins:
