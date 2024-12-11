@@ -24,7 +24,8 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 
 - [Kubernetes Autoscaler](https://github.com/kubernetes/autoscaler)
 - [FoundationDB](https://github.com/apple/foundationdb)
-- [Benthos](https://github.com/benthosdev/benthos/commit/ab0a2bc34486e97b5c913774f02d897c4a4cc60e)
+- [Benthos (now Redpanda Connect](https://github.com/redpanda-data/connect)
+- [Pipecat](https://github.com/pipecat-ai/pipecat/)
 - [BashBunny Payloads (Hak5)](https://github.com/hak5/bashbunny-payloads)
 - [lego](https://github.com/go-acme/lego)
 - [byob](https://github.com/malwaredllc/byob)
