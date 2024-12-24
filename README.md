@@ -24,12 +24,12 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 
 - [Kubernetes Autoscaler](https://github.com/kubernetes/autoscaler)
 - [FoundationDB](https://github.com/apple/foundationdb)
-- [Benthos (now Redpanda Connect](https://github.com/redpanda-data/connect)
+- [Redpanda Connect (previously Benthos)](https://github.com/redpanda-data/connect)
 - [Pipecat](https://github.com/pipecat-ai/pipecat/)
 - [BashBunny Payloads (Hak5)](https://github.com/hak5/bashbunny-payloads)
 - [lego](https://github.com/go-acme/lego)
 - [byob](https://github.com/malwaredllc/byob)
-- [mrsk](https://github.com/mrsked/mrsk) (readme fix)
+- [Kamal (previously mrsk)](https://github.com/mrsked/mrsk) (readme fix)
 
 #### 🧑‍💻 Favorite Projects:
 
