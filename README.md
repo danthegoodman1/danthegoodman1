@@ -44,4 +44,5 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [AWS SigV4/IAM Proxy](https://github.com/danthegoodman1/IAMProxy)
 - [durabletasks](https://github.com/danthegoodman1/durabletasks)
 - [ObjectKV](https://github.com/danthegoodman1/ObjectKV)
+- [DurableStreams](https://github.com/danthegoodman1/DurableStreams)
 - My pins:
