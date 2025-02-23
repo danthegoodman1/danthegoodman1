@@ -2,7 +2,7 @@
 
 Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
-📝 Blog: [aspiring.dev (code)](https://aspiring.dev) & [blog.danthegoodman.com (old)](https://blog.danthegoodman.com)
+📝 Blog: [danthegoodman.substack.com](danthegoodman.substack.com) & [blog.danthegoodman.com (old)](https://blog.danthegoodman.com)
 
 🐦 Twitter: [@Dan_The_Goodman](https://twitter.com/Dan_The_Goodman)
 
