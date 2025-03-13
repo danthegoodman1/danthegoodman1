@@ -1,4 +1,4 @@
-### Just trying to make something people want
+# Just trying to make something people want
 
 Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
@@ -31,7 +31,9 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [byob](https://github.com/malwaredllc/byob)
 - [Kamal (previously mrsk)](https://github.com/mrsked/mrsk) (readme fix)
 
-#### 🧑‍💻 Favorite Projects:
+## 🧑‍💻 Favorite Projects:
+
+### Infrastructure
 
 - [Gildra](https://github.com/danthegoodman1/Gildra)
 - [StableInterfaces](https://github.com/danthegoodman1/StableInterfaces)
@@ -39,10 +41,13 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
 - [GoSearch](https://github.com/GoSearchTeam/goSearch)
 - [UltraQueue (like segment's Centrifuge but pull)](https://github.com/danthegoodman1/UltraQueue)
-- [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
 - [RustyGraphDB (Rust Graph DB exploration)](https://github.com/danthegoodman1/RustyGraphDB)
 - [AWS SigV4/IAM Proxy](https://github.com/danthegoodman1/IAMProxy)
 - [durabletasks](https://github.com/danthegoodman1/durabletasks)
 - [ObjectKV](https://github.com/danthegoodman1/ObjectKV)
 - [DurableStreams](https://github.com/danthegoodman1/DurableStreams)
-- My pins:
+
+### Frontend
+- [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
+
+### My pins:
