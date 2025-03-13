@@ -6,7 +6,7 @@ Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
 🐦 Twitter: [@Dan_The_Goodman](https://twitter.com/Dan_The_Goodman)
 
-#### 🤓 Big Nerd For:
+#### 🤓 Big Nerd For
 - Datastores and databases
 - Distributed systems
 - Data analysis
@@ -20,7 +20,7 @@ Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
 
 _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 
-#### Some projects I've contributed to:
+#### Some projects I've contributed to
 
 - [Kubernetes Autoscaler](https://github.com/kubernetes/autoscaler)
 - [FoundationDB](https://github.com/apple/foundationdb)
@@ -31,7 +31,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [byob](https://github.com/malwaredllc/byob)
 - [Kamal (previously mrsk)](https://github.com/mrsked/mrsk) (readme fix)
 
-## 🧑‍💻 Favorite Projects:
+## 🧑‍💻 Favorite Projects
 
 ### Infrastructure
 
@@ -50,4 +50,4 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 ### Frontend
 - [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
 
-### My pins:
+### My pins
