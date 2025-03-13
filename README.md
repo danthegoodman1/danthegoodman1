@@ -1,6 +1,6 @@
 # Just trying to make something people want
 
-Co-Founder @ [🍊 Tangia (YC S22)](https://www.tangia.co)
+ (YC S22) Co-Founder of [🍊Tangia](https://www.tangia.co) / [Cobbery](https://cobbery.com)
 
 📝 Blog: [danthegoodman.substack.com](https://danthegoodman.substack.com) & [blog.danthegoodman.com (old)](https://blog.danthegoodman.com)
 
