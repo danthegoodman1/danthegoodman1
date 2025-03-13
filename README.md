@@ -32,22 +32,28 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [Kamal (previously mrsk)](https://github.com/mrsked/mrsk) (readme fix)
 
 ## 🧑‍💻 Favorite Projects
+(In no particular order)
 
 ### Infrastructure
 
+- [IceDB](https://github.com/danthegoodman1/icedb)
+- [FireScroll](https://github.com/FireScroll/FireScroll)
+- [EpicEpoch](https://github.com/danthegoodman1/EpicEpoch)
 - [Gildra](https://github.com/danthegoodman1/Gildra)
 - [StableInterfaces](https://github.com/danthegoodman1/StableInterfaces)
 - [Segment Proxy](https://github.com/danthegoodman1/SegmentProxy)
 - [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
 - [GoSearch](https://github.com/GoSearchTeam/goSearch)
-- [UltraQueue (like segment's Centrifuge but pull)](https://github.com/danthegoodman1/UltraQueue)
-- [RustyGraphDB (Rust Graph DB exploration)](https://github.com/danthegoodman1/RustyGraphDB)
+- [UltraQueue](https://github.com/danthegoodman1/UltraQueue)
+- [RustyGraphDB](https://github.com/danthegoodman1/RustyGraphDB)
 - [AWS SigV4/IAM Proxy](https://github.com/danthegoodman1/IAMProxy)
-- [durabletasks](https://github.com/danthegoodman1/durabletasks)
+- [DurableTasks](https://github.com/danthegoodman1/durabletasks)
 - [ObjectKV](https://github.com/danthegoodman1/ObjectKV)
 - [DurableStreams](https://github.com/danthegoodman1/DurableStreams)
 
 ### Frontend
-- [PageLens (chat with your webpage)](https://github.com/danthegoodman1/PageLensExtension)
+- [Frontlink](https://github.com/danthegoodman1/frontlink)
+- [PageLens](https://github.com/danthegoodman1/PageLensExtension)
 
-### My pins
+### Other
+- [EpicEnv](https://github.com/danthegoodman1/EpicEnv)
