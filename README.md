@@ -4,6 +4,8 @@
 
 📝 Blog: [danthegoodman.substack.com](https://danthegoodman.substack.com) & [blog.danthegoodman.com (old)](https://blog.danthegoodman.com)
 
+🧠 How to be exceptional (IMO): https://github.com/danthegoodman1/how_to_be_exceptional
+
 🐦 Twitter: [@Dan_The_Goodman](https://twitter.com/Dan_The_Goodman)
 
 #### 🤓 Big Nerd For
