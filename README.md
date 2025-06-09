@@ -42,6 +42,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [FireScroll](https://github.com/FireScroll/FireScroll)
 - [EpicEpoch](https://github.com/danthegoodman1/EpicEpoch)
 - [Gildra](https://github.com/danthegoodman1/Gildra)
+- [gRPSQLite](https://github.com/danthegoodman1/gRPSQLite)
 - [StableInterfaces](https://github.com/danthegoodman1/StableInterfaces)
 - [Segment Proxy](https://github.com/danthegoodman1/SegmentProxy)
 - [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
