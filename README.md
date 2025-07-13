@@ -53,6 +53,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [DurableTasks](https://github.com/danthegoodman1/durabletasks)
 - [ObjectKV](https://github.com/danthegoodman1/ObjectKV)
 - [DurableStreams](https://github.com/danthegoodman1/DurableStreams)
+- [BloomSearch](https://github.com/danthegoodman1/bloomsearch)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
