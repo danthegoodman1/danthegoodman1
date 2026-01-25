@@ -54,6 +54,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [ObjectKV](https://github.com/danthegoodman1/ObjectKV)
 - [DurableStreams](https://github.com/danthegoodman1/DurableStreams)
 - [BloomSearch](https://github.com/danthegoodman1/bloomsearch)
+- [Netfence](https://github.com/danthegoodman1/netfence)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
