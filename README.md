@@ -55,6 +55,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [DurableStreams](https://github.com/danthegoodman1/DurableStreams)
 - [BloomSearch](https://github.com/danthegoodman1/bloomsearch)
 - [Netfence](https://github.com/danthegoodman1/netfence)
+- [vbuckets](https://github.com/danthegoodman1/vbuckets)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
