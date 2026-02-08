@@ -56,6 +56,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [BloomSearch](https://github.com/danthegoodman1/bloomsearch)
 - [Netfence](https://github.com/danthegoodman1/netfence)
 - [vbuckets](https://github.com/danthegoodman1/vbuckets)
+- [QuiCK paper impl as a Convex component](https://github.com/danthegoodman1/quick-convex)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
