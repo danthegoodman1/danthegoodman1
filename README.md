@@ -43,24 +43,16 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [EpicEpoch](https://github.com/danthegoodman1/EpicEpoch)
 - [Gildra](https://github.com/danthegoodman1/Gildra)
 - [gRPSQLite](https://github.com/danthegoodman1/gRPSQLite)
-- [StableInterfaces](https://github.com/danthegoodman1/StableInterfaces)
-- [Segment Proxy](https://github.com/danthegoodman1/SegmentProxy)
-- [Cloudflare workers async logger](https://github.com/danthegoodman1/WorkersLogger)
-- [GoSearch](https://github.com/GoSearchTeam/goSearch)
-- [UltraQueue](https://github.com/danthegoodman1/UltraQueue)
-- [RustyGraphDB](https://github.com/danthegoodman1/RustyGraphDB)
-- [AWS SigV4/IAM Proxy](https://github.com/danthegoodman1/IAMProxy)
-- [DurableTasks](https://github.com/danthegoodman1/durabletasks)
 - [ObjectKV](https://github.com/danthegoodman1/ObjectKV)
 - [DurableStreams](https://github.com/danthegoodman1/DurableStreams)
 - [BloomSearch](https://github.com/danthegoodman1/bloomsearch)
 - [Netfence](https://github.com/danthegoodman1/netfence)
 - [vbuckets](https://github.com/danthegoodman1/vbuckets)
 - [QuiCK paper impl as a Convex component](https://github.com/danthegoodman1/quick-convex)
+- [Chain replication distributed KV](https://github.com/danthegoodman1/chainrep)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
-- [PageLens](https://github.com/danthegoodman1/PageLensExtension)
 
 ### Other
 - [EpicEnv](https://github.com/danthegoodman1/EpicEnv)
