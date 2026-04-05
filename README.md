@@ -31,7 +31,6 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [BashBunny Payloads (Hak5)](https://github.com/hak5/bashbunny-payloads)
 - [lego](https://github.com/go-acme/lego)
 - [byob](https://github.com/malwaredllc/byob)
-- [Kamal (previously mrsk)](https://github.com/mrsked/mrsk) (readme fix)
 
 ## 🧑‍💻 Favorite Projects
 (In no particular order)
@@ -49,7 +48,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [Netfence](https://github.com/danthegoodman1/netfence)
 - [vbuckets](https://github.com/danthegoodman1/vbuckets)
 - [QuiCK paper impl as a Convex component](https://github.com/danthegoodman1/quick-convex)
-- [HA Chain replication KV](https://github.com/danthegoodman1/chainrep)
+- [CRAQ with HA coordinator](https://github.com/danthegoodman1/craq)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
