@@ -48,7 +48,6 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [Netfence](https://github.com/danthegoodman1/netfence)
 - [vbuckets](https://github.com/danthegoodman1/vbuckets)
 - [QuiCK paper impl as a Convex component](https://github.com/danthegoodman1/quick-convex)
-- [CRAQ with HA coordinator](https://github.com/danthegoodman1/craq)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
