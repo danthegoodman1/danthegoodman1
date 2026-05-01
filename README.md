@@ -48,6 +48,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [Netfence](https://github.com/danthegoodman1/netfence)
 - [vbuckets](https://github.com/danthegoodman1/vbuckets)
 - [QuiCK paper impl as a Convex component](https://github.com/danthegoodman1/quick-convex)
+- [Durable Phases (phase-based durable execution)](https://github.com/danthegoodman1/durable-phases/)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
