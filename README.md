@@ -49,6 +49,10 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [vbuckets](https://github.com/danthegoodman1/vbuckets)
 - [QuiCK paper impl as a Convex component](https://github.com/danthegoodman1/quick-convex)
 - [Durable Phases (phase-based durable execution)](https://github.com/danthegoodman1/durable-phases/)
+- [Toy CoW distributed block devices/filesystems](https://github.com/danthegoodman1/toy-cow-block-storage)
+- [(not so) Toy distributed compute scheduler](https://github.com/danthegoodman1/toy-compute-scheduler)
+- [durust](https://github.com/danthegoodman1/durust)
+- [SleepyPods](https://github.com/danthegoodman1/sleepypods)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
