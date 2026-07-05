@@ -53,7 +53,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [(not so) Toy distributed compute scheduler](https://github.com/danthegoodman1/toy-compute-scheduler)
 - [durust](https://github.com/danthegoodman1/durust)
 - [SleepyPods](https://github.com/danthegoodman1/sleepypods)
-- [Tinysandbox](https://github.com/danthegoodman1/tinysandbox)
+- [tinysandbox](https://github.com/danthegoodman1/tinysandbox)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
