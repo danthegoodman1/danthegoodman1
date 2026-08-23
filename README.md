@@ -54,6 +54,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [durust](https://github.com/danthegoodman1/durust)
 - [SleepyPods](https://github.com/danthegoodman1/sleepypods)
 - [tinysandbox](https://github.com/danthegoodman1/tinysandbox)
+- [WalTier](https://github.com/danthegoodman1/waltier)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
