@@ -55,6 +55,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [SleepyPods](https://github.com/danthegoodman1/sleepypods)
 - [tinysandbox](https://github.com/danthegoodman1/tinysandbox)
 - [WalTier](https://github.com/danthegoodman1/waltier)
+- [S3-accelerator](https://github.com/danthegoodman1/s3-accelerator)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
