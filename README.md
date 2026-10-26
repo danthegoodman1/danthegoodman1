@@ -58,6 +58,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [S3-accelerator](https://github.com/danthegoodman1/s3-accelerator)
 - [Wirenet](https://github.com/danthegoodman1/wirenet)
 - [Rust TurtleKV impl w optimizations](https://github.com/danthegoodman1/turtlekv-rs)
+- [SQLive](https://github.com/danthegoodman1/sqlive)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
