@@ -58,6 +58,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [S3-accelerator](https://github.com/danthegoodman1/s3-accelerator)
 - [Wirenet](https://github.com/danthegoodman1/wirenet)
 - [lionturtle (TurtleKV modified for throughput and tail latency)](https://github.com/danthegoodman1/lionturtle)
+- [celltnx (MySQL storage engine with cell-level serializable OCC and commuting deltas)](https://github.com/danthegoodman1/cell-txn)
 - [SQLive](https://github.com/danthegoodman1/sqlive)
 
 ### Frontend
