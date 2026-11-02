@@ -60,6 +60,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [lionturtle (TurtleKV modified for throughput and tail latency)](https://github.com/danthegoodman1/lionturtle)
 - [celltnx (MySQL storage engine with cell-level serializable OCC and commuting deltas)](https://github.com/danthegoodman1/cell-txn)
 - [SQLive](https://github.com/danthegoodman1/sqlive)
+- [InodeDB (directory-based KV with O(1) renames)](https://github.com/danthegoodman1/inodedb)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
