@@ -61,6 +61,7 @@ _Find more at [blog.danthegoodman.com](https://blog.danthegoodman.com)_
 - [celltnx (MySQL storage engine with cell-level serializable OCC and commuting deltas)](https://github.com/danthegoodman1/cell-txn)
 - [SQLive](https://github.com/danthegoodman1/sqlive)
 - [InodeDB (directory-based KV with O(1) renames)](https://github.com/danthegoodman1/inodedb)
+- [libch (ClickHouse insert and merge as short-lived operations, so one worker pool serves many tenants)](https://github.com/danthegoodman1/libch)
 
 ### Frontend
 - [Frontlink](https://github.com/danthegoodman1/frontlink)
